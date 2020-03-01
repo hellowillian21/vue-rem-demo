@@ -18,7 +18,7 @@ export default {
 .hello {
   .rem {
     width: 375px;
-    height: 50px;
+    height: 667px;
     background: #cccccc;
     font-size: 16px;
     border-bottom: 1px solid aqua;
